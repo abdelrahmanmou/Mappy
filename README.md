@@ -1,9 +1,8 @@
 <h1 align="center">Welcome to Mappy :earth_africa:	</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/appveyor/build/abdelrahmanmou/Mappy?style=plastic" />
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/AbdoMIbrahim" target="_blank">
+  <img src="https://img.shields.io/github/languages/top/abdelrahmanmou/Mappy" />
+  <a href="https://img.shields.io/twitter/follow/AbdoMIbrahim?style=social" target="_blank">
     <img alt="Twitter: AbdoMIbrahim" src="https://img.shields.io/twitter/follow/AbdoMIbrahim.svg?style=social" />
   </a>
 </p>
