@@ -25,9 +25,9 @@ The app is user-friendly and easy to navigate, making it an ideal tool for anyon
      <td>Details View</td>
   </tr>
   <tr>
-    <td><img width="725" alt="exportD9974808-91BA-4CBA-B1B8-70A5AF992E43" src="https://user-images.githubusercontent.com/26511503/224576851-7a0e7b2a-c821-460c-ae54-4cdf6de4eb73.png"></td>
-    <td><img width="725" alt="export0687058F-0B0F-4769-A314-F24AA7199032" src="https://user-images.githubusercontent.com/26511503/224576814-810a9767-e400-4684-93f7-ea3fd7eb16d7.png"></td>
     <td><img width="725" alt="exportEB678755-A609-4D51-8E36-B377489B29FA" src="https://user-images.githubusercontent.com/26511503/224576765-69aad980-680b-4eb0-9438-9cc2bdcf3e73.png"></td>
+    <td><img width="725" alt="export0687058F-0B0F-4769-A314-F24AA7199032" src="https://user-images.githubusercontent.com/26511503/224576814-810a9767-e400-4684-93f7-ea3fd7eb16d7.png"></td>
+    <td><img width="725" alt="exportD9974808-91BA-4CBA-B1B8-70A5AF992E43" src="https://user-images.githubusercontent.com/26511503/224576851-7a0e7b2a-c821-460c-ae54-4cdf6de4eb73.png"></td>
   </tr>
  </table>
 
